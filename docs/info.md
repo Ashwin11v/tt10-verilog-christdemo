@@ -13,8 +13,8 @@ Explain how
 
 ## How to test
 
-Explain how 
+Explain y
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+List external
